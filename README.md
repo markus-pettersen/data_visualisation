@@ -10,7 +10,7 @@ There are currently two reports:
 Both reports are in pdf format. The Jupyter Notebook files are also included. For these, the following modules are required:
 * Numpy
 * Pandas
-* Pyplot from matpotlib
+* Pyplot from matplotlib
 * Seaborn
 * Missingno
 
