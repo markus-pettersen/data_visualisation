@@ -28,3 +28,6 @@ The reports are available in pdf format. Jupyter Notebooks are also provided. De
 The datasets were both retrieved from Kaggle from the following links:
 * Automobiles - [Link](https://www.kaggle.com/datasets/toramky/automobile-dataset)
 * Diabetes - [Link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+## Other links
+* Video presentation of the Diabetes EDA - [link](https://www.loom.com/share/3809e71873574054af8dde709c120709)
